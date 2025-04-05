@@ -1,0 +1,24 @@
+{
+    "nombre": "Alberto",
+    "edad": 25,
+    "Dni": "2546789A",
+    "Delitos": [
+      {  "Estafa": "Estafa"},
+       { "Robo a mano armada": "robo a mano armada"},
+       { "Allanamiento de morada": "Allanamiento a una vivienda"},
+       { "Asesinato": "Asesinato"}
+    ],
+    "Tiempo_de_los_delitos": [
+    {
+    "Dia2": "dia 2 de enero del 2023"},
+   {"Dia25": " dia 25 de febrero del 2024"},
+   {"Dia26": "dia 26 de febrero del 2024"},
+     { "Dia27": "dia 27 de febrero del 2024"
+    }
+],
+    "Posibles_consecuencias": [
+        "Por Estafa: multa de 3000",
+         "Por Robo a mano armada: Carcel de 2 anos",
+         "Por allanamiento de morada: Carcel de 10 anos",
+     "Por asesinato: Carcel de 5 anos"]
+}
